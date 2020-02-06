@@ -2,11 +2,13 @@ name: app-environment
 channels:
   - conda-forge
 dependencies:
+  - jupyter
   - numpy
   - ipywidgets
   - pandas
   - matplotlib
   - plotly
   - IPython
-  - sklearn
+  - scikit-learn
   - keras
+  - voila
