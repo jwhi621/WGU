@@ -1,13 +1,8 @@
-gunicorn
 numpy
 ipywidgets
-io
 pandas
 matplotlib
 plotly
-copy
-math
 IPython
 sklearn
 keras
-warnings
