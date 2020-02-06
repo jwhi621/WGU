@@ -1,8 +1,0 @@
-numpy
-ipywidgets
-pandas
-matplotlib
-plotly
-IPython
-sklearn
-keras

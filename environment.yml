@@ -1,0 +1,12 @@
+name: app-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - ipywidgets
+  - pandas
+  - matplotlib
+  - plotly
+  - IPython
+  - sklearn
+  - keras
